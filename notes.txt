@@ -1,0 +1,16 @@
+
+# flower_data = [["http://extension.colostate.edu/county/jeffco/natural/plant_images/adenolinum_lewisii_1_378x400.jpg",
+#          "\n  WILD BLUE FLAX",
+#          "\n  blue flax",
+#          "\n  Adenolinum lewisii",
+#          "\n  stigma capitate (headed); plant produces many branches from the base; styles of same length on different plants.",
+#          "\n  late spring to late summer (May - Aug.).",
+#          "\n  dry slopes, forest clearings, roadsides."],
+#         ["http://extension.colostate.edu/county/jeffco/natural/plant_images/amerosedum_lanceolatum_400x267.jpg",
+#          "\n  YELLOW STONECROP",
+#          "\n  lanceleaf stonecrop",
+#          "\n  Amerosedum lanceolatum",
+#          "\n  leaves succulent (fleshy), in basal (at the plant base) clusters, often deciduous (falling off, not persistent throughout the year) before anthesis
+#         (opening of the flower).",
+#          "\n  summer (Jun.).",
+#          "\n  rocky ground at 5,000 to 11,500 feet elevation."]]
